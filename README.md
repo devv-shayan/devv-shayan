@@ -118,10 +118,13 @@
 </p>
   <br>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=devv-shayan&bg_color=30,e96403,908e95&title_color=fff&text_color=fff)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=devv-shayan&theme=highcontrast&hide_border=true)
+![](https://raw.githubusercontent.com/devv-shayan/github-stats-transparent/output/generated/languages.svg)
+
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=devv-shayan&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-shayan&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-shayan&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devv-shayan&icon=8&color=12)](https://visitcount.itsvg.in)
