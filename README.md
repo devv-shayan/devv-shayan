@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <p align="left" dir="auto">
-<a href="https://linkedin.com/in/shayanxkhan" rel="nofollow">
+<a href="https://www.linkedin.com/in/agentic-ai-developer-shayan-khan" rel="nofollow">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" alt="LinkedIn" style="max-width: 100%;">
   </a>
 <a href="https://x.com/ShayanK70861275" rel="nofollow">
