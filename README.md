@@ -1,5 +1,5 @@
 ## 💫 HI THERE! 
-🔭 I’m currently working as a full stack AI Engineer<br>👯 I’m looking to collaborate on Agentic AI<br>🌱 I’m currently learning Agent Native Cloud Development<br>💬 Ask me about Agentic AI<br>
+🔭 I’m currently working as a AI Engineer<br>👯 I’m looking to collaborate on Agentic AI<br>🌱 I’m currently learning Agent Native Cloud Development<br>💬 Ask me about Agentic AI<br>
 
 
 ## 🌐 Socials:
